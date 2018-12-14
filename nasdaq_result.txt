@@ -1,0 +1,540 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" "D:/Dung Tran/York University/ML1010/Exercise/Core Project/ML1010_Team/nasdaq_scraper2.py"
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=2
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=3
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=4
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=5
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=6
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=7
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=8
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=9
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=10
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=11
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=12
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=13
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=14
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=15
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=16
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=17
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=18
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=19
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=20
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=21
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=22
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=23
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=24
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=25
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=26
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=27
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=28
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=29
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=30
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=31
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=32
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=33
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=34
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=35
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=36
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=37
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=38
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=39
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=40
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=41
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=42
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=43
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=44
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=45
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=46
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=47
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=48
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=49
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=50
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=51
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=52
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=53
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=54
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=55
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=56
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=57
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=58
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=59
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=60
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=61
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=62
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=63
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=64
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=65
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=66
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=67
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=68
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=69
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=70
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=71
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=72
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=73
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=74
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=75
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=76
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=77
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=78
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=79
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=80
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=81
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=82
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=83
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=84
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=85
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=86
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=87
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=88
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=89
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=90
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=91
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=92
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=93
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=94
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=95
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=96
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=97
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=98
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=99
+http://www.nasdaq.com/symbol/aapl/news-headlines?page=100
+https://www.nasdaq.com/article/apples-homepod-is-heading-to-china-cm1065084
+(0.16046882670594004, 0.39806701030927816)
+https://www.nasdaq.com/article/qualcomms-chances-of-winning-back-the-iphone-dont-look-good-cm1056924
+(0.19654239438722196, 0.40964323033288536)
+https://www.nasdaq.com/article/apple-aapl-stock-sinks-as-market-gains-what-you-should-know1-cm1061313
+(0.03177447552447553, 0.47074592074592075)
+https://www.nasdaq.com/article/heres-why-microsoft-msft-is-a-better-buy-than-faangs-cm1062156
+(0.131852749240809, 0.4233497596930433)
+https://www.nasdaq.com/article/after-hours-most-active-for-dec-11-2018-gpor-ge-yelp-v-bac-cmcsa-wfc-aapl-qqq-t-siri-xel-cm1067781
+(-0.020193602693602694, 0.3348983423983425)
+https://www.nasdaq.com/article/the-sell-off-means-microsoft-stock-definitely-looks-like-a-buy-again-cm1059636
+(0.1366840277777778, 0.48390376984126976)
+https://www.nasdaq.com/article/mid-day-update-us-stocks-return-early-gains-as-wall-street-struggles-with-global-growth-worries-cm1069074
+(-0.012337505489679405, 0.31666886253842796)
+https://www.nasdaq.com/article/netflix-nflx-ramps-up-effort-to-diversify-content-library-cm1064946
+(0.11018381618381622, 0.5164112554112553)
+https://www.nasdaq.com/article/earnings-data-deluge-cm1055370
+(0.1368018419489008, 0.41962269756387416)
+https://www.nasdaq.com/article/10-stocks-warren-buffett-is-buying-and-6-hes-selling-cm1057363
+(0.13886542216766104, 0.3868327913104032)
+https://www.nasdaq.com/article/apple-woes-trigger-tech-sector-rout-etfs-under-threat-cm1055018
+(0.07601851851851851, 0.4104232804232805)
+https://www.nasdaq.com/article/3-dividend-stocks-that-are-perfect-for-retirement-cm1056733
+(0.19724248333084538, 0.523504567750257)
+https://www.nasdaq.com/article/close-update-wall-street-weighed-down-by-apple-banking-sector-as-dow-slips-under-200-dma-cm1056133
+(0.014550264550264544, 0.33664021164021174)
+https://www.nasdaq.com/article/technology-sector-update-for-11132018-litegdsmgicever-cm1055468
+(0.01602833894500561, 0.3338033108866441)
+https://www.nasdaq.com/article/continued-reliable-improvements-make-microsoft-stock-a-smart-choice-cm1053956
+(0.13745739710025423, 0.4688930117501547)
+https://www.nasdaq.com/article/the-worst-mistake-apple-investors-can-make-right-now-cm1063555
+(0.18316633079564112, 0.5176574861919688)
+https://www.nasdaq.com/article/thursdays-etf-with-unusual-volume-xntk-cm1062523
+(0.20500000000000002, 0.5878571428571429)
+https://www.nasdaq.com/article/apple-falls-unitedhealth-gains-and-more-morning-movers-cm1060899
+(-0.049999999999999996, 0.4666666666666666)
+https://www.nasdaq.com/article/why-now-might-be-a-good-time-to-buy-skyworks-solutions-stock-cm1064617
+(0.13630421661671666, 0.4517542873792873)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-apple-alphabet-amazon-and-roku-cm1060478
+(0.07915261145780628, 0.5069207848428624)
+https://www.nasdaq.com/article/apple-could-be-planning-to-cut-out-another-iphone-supplier-cm1069093
+(0.1858787593984962, 0.5877349624060147)
+https://www.nasdaq.com/article/the-ttwo-stock-dip-is-a-perfect-gift-for-contrarian-investors-cm1056874
+(0.13917448292448295, 0.5196007696007696)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-disney-netflix-amazon-apple-and-att-cm1052793
+(0.1317038202347481, 0.5079548458414436)
+https://www.nasdaq.com/article/wednesdays-etf-with-unusual-volume-xntk-cm1056008
+(0.15993055555555555, 0.5504861111111111)
+https://www.nasdaq.com/article/these-2-apple-suppliers-have-something-in-common-cm1062663
+(0.1696800595238095, 0.4933965773809523)
+https://www.nasdaq.com/article/technology-sector-update-for-12072018-amot-cmtl-ibm-msft-aapl-csco-goog-cm1066186
+(-0.05717592592592593, 0.3918981481481481)
+https://www.nasdaq.com/article/more-bad-news-for-apples-iphone-unit-volumes-cm1067883
+(0.16758474576271182, 0.4187449556093623)
+https://www.nasdaq.com/article/why-this-apple-supplier-will-benefit-from-5g-iphones-cm1055171
+(0.22630527210884352, 0.45126700680272097)
+https://www.nasdaq.com/article/dont-buy-google-stock-until-a-positive-catalyst-emerges-cm1057378
+(0.08048763141620285, 0.43644495980210274)
+https://www.nasdaq.com/article/10-stocks-to-buy-with-the-trade-war-on-pause-cm1064110
+(0.05536909161299408, 0.3595685425685426)
+https://www.nasdaq.com/article/alibaba-sets-singles-day-record-cm1054775
+(0.10867850583759675, 0.2900154138790502)
+https://www.nasdaq.com/article/holiday-gift-guide-2018-the-best-smartwatches-and-fitness-trackers-cm1063223
+(0.2292877757163471, 0.46531299388442243)
+https://www.nasdaq.com/article/technology-sector-update-for-12132018-upld-msft-aapl-ibm-csco-goog-cien-qtrh-cm1069077
+(-0.046296296296296294, 0.5046296296296297)
+https://www.nasdaq.com/article/technology-sector-update-for-11272018-mximaaplspcbutxbosc-cm1061211
+(-0.02410533910533911, 0.3921356421356422)
+https://www.nasdaq.com/article/dow-hangs-on-nasdaq-dips-in-another-volatile-session-cm1069167
+(0.0777104377104377, 0.46446127946127946)
+https://www.nasdaq.com/article/pre-market-most-active-for-dec-4-2018-cron-amd-apha-aapl-sqqq-qqq-fms-acb-abev-baba-mt-tvix-cm1064192
+(0.0024091141833077353, 0.3163549174839498)
+https://www.nasdaq.com/article/7-stocks-to-buy-for-a-2018-holiday-season-boost-cm1057617
+(0.17358498930788088, 0.42211730037031236)
+https://www.nasdaq.com/article/after-hours-most-active-for-nov-21-2018-ge-qqq-s-intc-t-orcl-dwdp-ctl-ftnt-aapl-esrx-symc-cm1059662
+(-0.0014274691358024687, 0.2664737654320988)
+https://www.nasdaq.com/article/hewlett-packard-enterprise-company-hpe-ex-dividend-date-scheduled-for-december-11-2018-cm1066742
+(0.10104308390022675, 0.30706349206349204)
+https://www.nasdaq.com/article/apple-may-launch-tv-dongle-to-boost-streaming-content-reach-cm1060182
+(0.09663526364346038, 0.5195284223972748)
+https://www.nasdaq.com/article/how-do-you-monetize-a-streaming-platform-cm1069124
+(0.2204573934837093, 0.4936246867167918)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-apple-amazon-facebook-ebay-and-etsy-cm1066150
+(0.05390422077922081, 0.5619472194472193)
+https://www.nasdaq.com/article/qualcomm-wins-twin-patent-battle-in-china-against-apple-cm1067510
+(0.07856959424756035, 0.470302296573483)
+https://www.nasdaq.com/article/how-to-play-the-5g-revolution-cm1055669
+(0.11154539904539905, 0.3834734709734709)
+https://www.nasdaq.com/article/apple-stock-is-still-a-winner-despite-slowdown-in-iphone-sales-cm1063990
+(0.07789055015945773, 0.4328936119902506)
+https://www.nasdaq.com/article/tuesday-apple-rumors-apple-may-still-release-new-airpods-in-2018-cm1055538
+(0.13287012987012986, 0.34613852813852813)
+https://www.nasdaq.com/article/qualcomm-stock-looks-good-below-60-cm1054015
+(0.15290146361574938, 0.4245258709544425)
+https://www.nasdaq.com/article/mondays-vital-data-disney-general-electric-and-apple-cm1054678
+(0.06932900432900434, 0.41927128427128413)
+https://www.nasdaq.com/article/facebook-stock-is-battered-but-at-least-its-still-a-cloud-czar-cm1057299
+(-0.021872412651101177, 0.42751697300877606)
+https://www.nasdaq.com/article/an-8220instant8221-3-fund-portfolio-for-98-dividends-and-40-upside-cm1057913
+(0.1684145805884936, 0.45653318903318907)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-facebook-apple-google-netflix-and-amazon-cm1057960
+(0.09205527665611701, 0.44327949361562785)
+https://www.nasdaq.com/article/is-apple-stock-still-a-buy-cm1056826
+(0.17016349721706867, 0.4210555218590933)
+https://www.nasdaq.com/article/analysts-see-22-gains-ahead-for-the-holdings-of-ptf-cm1065157
+(0.02181818181818182, 0.3697962382445141)
+https://www.nasdaq.com/article/thursday-apple-rumors-qualcomm-pushing-for-2018-iphone-ban-cm1069253
+(0.12301864801864801, 0.3765151515151515)
+https://www.nasdaq.com/article/cheap-phones-are-driving-what-little-growth-is-left-in-the-smartphone-market-cm1064574
+(0.21958920187793426, 0.4650855130784708)
+https://www.nasdaq.com/article/the-iphone-xr-drama-illustrates-a-big-risk-to-apple-stock-cm1061064
+(0.12728932178932176, 0.46207470307470305)
+https://www.nasdaq.com/article/pre-market-most-active-for-dec-11-2018-sqqq-qqq-chu-amd-nok-bac-tqqq-ge-aapl-acb-sfix-f-cm1067323
+(0.03666666666666667, 0.28657568238213393)
+https://www.nasdaq.com/article/tuesday-apple-rumors-apple-pay-officially-launches-in-germany-cm1067790
+(0.0880787037037037, 0.36226851851851855)
+https://www.nasdaq.com/article/when-banks-get-beat-who-wins-cm1068560
+(0.05258960573476702, 0.32899641577060934)
+https://www.nasdaq.com/article/8220faangs8221-weigh-on-us-tech-index-nissan-scandal-sinks-nikkei-rba-minutes-dovish-cm1058499
+(0.13285529715762276, 0.37664082687338507)
+https://www.nasdaq.com/article/noteworthy-etf-inflows-ivw-msft-aapl-v-cm1065380
+(0.13561153004701393, 0.4055070288134804)
+https://www.nasdaq.com/article/3-trashed-stocks-to-buy-for-fundamental-strength-cm1065075
+(0.12815699512128084, 0.4043419741634028)
+https://www.nasdaq.com/article/intel-stock-is-a-lot-more-promising-than-you-think-cm1065546
+(0.1135691593352884, 0.44464809384164233)
+https://www.nasdaq.com/article/this-holiday-surge-isnt-even-the-best-reason-to-buy-roku-stock-cm1061126
+(0.15957242957242954, 0.4962591162591162)
+https://www.nasdaq.com/article/tech-led-bloodbath-hurting-retail-stocks-tgt-bby-kss-more-cm1058783
+(0.19225881939697734, 0.463906451735399)
+https://www.nasdaq.com/article/apple-stock-will-get-blasted-hard-if-us-china-trade-dispute-continues-cm1056751
+(-0.0095112517580872, 0.37267932489451483)
+https://www.nasdaq.com/article/6-inverse-etf-areas-to-tap-in-volatile-markets-cm1055449
+(0.20858333333333337, 0.4860000000000002)
+https://www.nasdaq.com/article/heres-how-disney-dis-stacked-up-against-q4-estimates-cm1053355
+(0.1633028536089761, 0.4547817828430074)
+https://www.nasdaq.com/article/consumer-etfs-to-buy-as-wal-mart-beats-raises-view-cm1057318
+(0.032556659027247255, 0.4934428316781253)
+https://www.nasdaq.com/article/dow-suffers-longest-losing-streak-since-august-cm1056139
+(0.10606060606060608, 0.3715909090909091)
+https://www.nasdaq.com/article/microsoft-overtakes-apple-eyes-trillion-dollar-market-cap-in-2019-cm1064393
+(0.07947169170698583, 0.38631771496477363)
+https://www.nasdaq.com/article/do-we-really-need-a-new-streaming-device-from-facebook-cm1054104
+(0.11281745651608663, 0.47144531267818907)
+https://www.nasdaq.com/article/apples-iphone-sales-may-be-slipping-but-the-apple-watch-is-hot-cm1064508
+(0.14318643754619365, 0.4422721587355734)
+https://www.nasdaq.com/article/6-inverse-etf-areas-to-tap-as-markets-turn-red-cm1055413
+(0.20858333333333337, 0.4860000000000002)
+https://www.nasdaq.com/article/president-trump-might-hit-apple-with-tariffs-after-all-cm1061094
+(0.16350282485875703, 0.5289447134786117)
+https://www.nasdaq.com/article/is-paypal-holdings-inc-a-buy-cm1055801
+(0.1596607142857143, 0.4030952380952379)
+https://www.nasdaq.com/article/here-are-3-important-things-to-know-about-your-401k-cm1068669
+(0.1848845598845599, 0.4437384044526903)
+https://www.nasdaq.com/article/-chinese-imports-and-exports-decline-big-in-november-cm1066908
+(0.07686224995048524, 0.32647256882551007)
+https://www.nasdaq.com/article/us-looks-for-a-deal-with-china-apple-finds-a-deal-with-amazon-cm1064690
+(0.20920458263459768, 0.4521036149479265)
+https://www.nasdaq.com/article/dow-30-stock-roundup-boeing-to-supply-40-737-max-8-to-jeju-air-pfizer-gets-fda-nod-cm1060047
+(0.05929778664030635, 0.4465306041290291)
+https://www.nasdaq.com/article/apple-may-offer-discounts-to-carriers-for-iphone-xr-in-japan-cm1060099
+(0.05220011693287555, 0.48940478678409705)
+https://www.nasdaq.com/article/pre-market-most-active-for-nov-29-2018-sqqq-ing-tnxp-db-anf-nok-qqq-aapl-mt-bp-tlt-amd-cm1062124
+(0.014463601532567049, 0.35220306513409966)
+https://www.nasdaq.com/article/despite-lacking-a-permanent-ceo-intel-stock-could-be-a-good-bet-cm1053879
+(0.21415404040404037, 0.42502669552669553)
+https://www.nasdaq.com/article/close-update-stocks-swoon-as-technology-sector-leads-market-lower-to-start-holiday-shortened-week-cm1058275
+(0.025992063492063486, 0.4098710317460318)
+https://www.nasdaq.com/article/stock-market-news-for-nov-23-2018-cm1060064
+(0.025254979842608702, 0.3767566683030598)
+https://www.nasdaq.com/article/pre-market-most-active-for-nov-27-2018-sqqq-aapl-qqq-amd-amrn-asx-tvix-ibn-stm-nok-nio-kos-cm1060836
+(0.015124167946748595, 0.37777137736815164)
+https://www.nasdaq.com/article/10-high-tech-gifts-that-cost-less-than-100-cm1059582
+(0.24790061695673948, 0.5505033232074048)
+https://www.nasdaq.com/article/heres-how-much-this-small-chip-company-needs-apple-cm1056300
+(0.1815247500515357, 0.42353960523603373)
+https://www.nasdaq.com/article/mid-day-update-tech-carnage-continues-with-wall-street-negative-for-the-year-cm1058889
+(-0.07013437950937951, 0.31654942279942305)
+https://www.nasdaq.com/article/technology-sector-update-for-11152018-rvlt-ntes-csco-msft-aapl-ibm-goog-cm1056468
+(0.11640624999999999, 0.4158854166666666)
+https://www.nasdaq.com/article/dow-movers-aapl-vz-cm1054492
+(-0.048263888888888884, 0.4940972222222222)
+https://www.nasdaq.com/article/what-happened-in-the-stock-market-today12-cm1058340
+(0.15399879476584022, 0.46286034041715857)
+https://www.nasdaq.com/article/why-apple-music-is-climbing-on-the-amazon-echo-bandwagon-cm1064970
+(0.210718253968254, 0.4591408730158729)
+https://www.nasdaq.com/article/another-analyst-reduces-apple-stock-price-forecast-cm1060967
+(0.10380892255892255, 0.3575231481481482)
+https://www.nasdaq.com/article/two-important-apple-suppliers-are-consolidating-cm1054033
+(0.17852668165168156, 0.5266212953712952)
+https://www.nasdaq.com/article/thursday-apple-rumors-sim-free-iphone-xr-now-available-in-us-cm1056871
+(0.07159541847041848, 0.3481421356421356)
+https://www.nasdaq.com/article/why-is-the-stock-market-selling-off-cm1066185
+(0.08160259355790085, 0.4440904750122627)
+https://www.nasdaq.com/article/how-to-score-a-cheap-smartphone-this-holiday-season-cm1057781
+(0.23342121379912087, 0.4550194637403938)
+https://www.nasdaq.com/article/relative-strength-alert-for-apple-cm1066995
+(0.08848039215686274, 0.4428921568627451)
+https://www.nasdaq.com/article/close-update-apple-rescues-stocks-from-early-beat-down-cm1067158
+(0.04618326118326117, 0.34634920634920646)
+https://www.nasdaq.com/article/aapl-stock-has-recovered-from-slowing-iphone-sales-before-cm1058232
+(0.07955613830613831, 0.43095279720279706)
+https://www.nasdaq.com/article/why-amazoncom-stock-fell-monday-cm1058355
+(0.16419432419432414, 0.5313576238576238)
+https://www.nasdaq.com/article/why-british-american-tobacco-lumentum-holdings-and-edison-international-slumped-today-cm1054768
+(0.08299875007621484, 0.40256234375952676)
+https://www.nasdaq.com/article/everything-you-need-to-know-about-netflix-rival-disney-plus-cm1053860
+(0.23212492269635138, 0.49272165929308753)
+https://www.nasdaq.com/article/technology-sector-update-for-11212018-abil-cmcm-adsk-msft-aapl-ibm-csco-goog-cm1059269
+(0.17500000000000002, 0.48333333333333334)
+https://www.nasdaq.com/article/netflix-stock-is-the-best-contrarian-bet-in-tech-cm1060772
+(0.06440196078431375, 0.5323403361344538)
+https://www.nasdaq.com/article/time-to-buy-caterpillar-cat-stock-after-us-china-trade-ceasefire-cm1064052
+(0.15694560618289435, 0.47731039205615483)
+https://www.nasdaq.com/article/stock-futures-gain-ground-as-ecb-keeps-rates-unchanged-chinaus-trade-relations-thaw-cm1068685
+(0.014872982314842787, 0.36905181381925567)
+https://www.nasdaq.com/article/indexes-try-to-claw-back-from-bloody-monday-plus-hd-tsn-more-cm1055319
+(0.15758710375645862, 0.43268921938276783)
+https://www.nasdaq.com/article/apple-iphone-partner-foxconn-is-bracing-for-a-very-difficult-year-cm1059456
+(0.04149831649831649, 0.3364758698092032)
+https://www.nasdaq.com/article/tech-giants-face-trade-war-tinged-legal-battles-cm1067649
+(0.16570346320346327, 0.4051695526695527)
+https://www.nasdaq.com/article/3-top-tech-stocks-to-buy-in-november-cm1054133
+(0.18297700780122658, 0.4453447420634919)
+https://www.nasdaq.com/article/mid-day-update-wall-street-roiled-by-apple-trade-war-tensions-european-banking-woes-cm1054644
+(-0.028836252131706694, 0.30441427259609105)
+https://www.nasdaq.com/article/this-apple-suppliers-tough-times-shouldnt-last-long-cm1067244
+(0.12168845408976985, 0.4494773866484391)
+https://www.nasdaq.com/article/this-might-be-the-real-reason-apples-not-launching-a-5g-iphone-until-2020-cm1064709
+(0.1430212260857422, 0.4731019876181165)
+https://www.nasdaq.com/article/the-pain-for-facebook-stock-is-just-beginning-cm1061963
+(0.09047695262483996, 0.4877009531939108)
+https://www.nasdaq.com/article/apple-launches-apple-pay-in-germany-boosts-global-footprint-cm1068437
+(0.13232223023889692, 0.42904441237774577)
+https://www.nasdaq.com/article/just-watch-roku-stock-will-bounce-back-this-winter-cm1056012
+(0.13300709706959707, 0.4989010989010991)
+https://www.nasdaq.com/article/heres-why-adobe-adbe-stock-looks-like-a-buy-ahead-of-earnings-cm1066284
+(0.13934946479722604, 0.4695249940772329)
+https://www.nasdaq.com/article/thursday-apple-rumors-lawsuit-targets-apple-over-dust-filters-cm1062687
+(0.05772144522144522, 0.37392191142191145)
+https://www.nasdaq.com/article/apple-makes-rare-cross-platform-play-with-apple-music-cm1063139
+(0.2369162975267627, 0.5883121077888517)
+https://www.nasdaq.com/article/you-can-count-on-cisco-stock-for-more-upside-cm1061886
+(0.13814104389762286, 0.458520828586618)
+https://www.nasdaq.com/article/technology-sector-update-for-12042018-crus-smar-nxpi-msft-aapl-ibm-csco-goog-cm1064294
+(0.05296296296296296, 0.3825925925925926)
+https://www.nasdaq.com/article/facebook-reportedly-testing-new-video-feature-on-messenger-cm1058818
+(0.14817099567099573, 0.5181385281385281)
+https://www.nasdaq.com/article/zacks-investment-ideas-feature-highlights-tesla-apple-alphabet-ford-and-general-motors-cm1066913
+(0.09154835182178933, 0.46884929090007205)
+https://www.nasdaq.com/article/is-streaming-video-a-smart-move-for-apple-cm1064774
+(0.21488095238095237, 0.503299916457811)
+https://www.nasdaq.com/article/dow-movers-aapl-intc-cm1066839
+(-0.048263888888888884, 0.4940972222222222)
+https://www.nasdaq.com/article/apple-reportedly-battles-low-demand-cuts-production-orders-cm1058795
+(0.14137855387855394, 0.5390546390546387)
+https://www.nasdaq.com/article/why-alibaba-stock-still-has-plenty-of-better-days-ahead-cm1056077
+(0.07288660413660414, 0.4680615680615682)
+https://www.nasdaq.com/article/9-tech-stocks-with-must-win-holiday-season-launches-cm1059627
+(0.12123456022977558, 0.45486969835055974)
+https://www.nasdaq.com/article/should-wisdomtree-us-earnings-500-fund-eps-be-on-your-investing-radar1-cm1060539
+(0.15255230880230883, 0.4835588023088022)
+https://www.nasdaq.com/article/nasdaq-100-movers-aapl-nxpi-cm1067476
+(-0.03373015873015873, 0.5075396825396825)
+https://www.nasdaq.com/article/xiaomi-crushes-fitbit-and-apple-in-wearable-shipments-cm1065733
+(0.13186813186813184, 0.4113553113553112)
+https://www.nasdaq.com/article/could-apples-services-business-hit-a-wall-next-year-cm1068605
+(0.1742268746579091, 0.5286569512862616)
+https://www.nasdaq.com/article/the-pattern-in-aapl-stock-bears-a-striking-resemblance-to-2012-cm1059075
+(0.043023088023088026, 0.3402020202020202)
+https://www.nasdaq.com/article/technology-sector-update-for-12072018-cmtl-avgo-ibm-msft-aapl-csco-goog-cm1065910
+(0.0662037037037037, 0.449074074074074)
+https://www.nasdaq.com/article/abbvie-stock-has-a-10-upside-opportunity-buy-it-now-cm1065655
+(0.07852996401189172, 0.4554548931657365)
+https://www.nasdaq.com/article/apple-acquires-artificial-intelligence-start-up-with-emphasis-on-privacy-cm1059591
+(0.18033163265306118, 0.5931292517006801)
+https://www.nasdaq.com/article/why-is-the-stock-market-sliding-today-cm1056223
+(0.26095238095238105, 0.4638571428571429)
+https://www.nasdaq.com/article/heres-whats-going-on-in-the-wearables-market-cm1067414
+(0.2174932876777139, 0.4240061623258346)
+https://www.nasdaq.com/article/stock-market-news-for-nov-13-2018-cm1055178
+(0.006850529100529078, 0.40410337810337793)
+https://www.nasdaq.com/article/5-must-see-stock-charts-for-friday-apple-facebook-and-more-cm1062749
+(0.07467729621799392, 0.3818766149870801)
+https://www.nasdaq.com/article/what-does-the-inverted-yield-curve-mean-for-your-money-cm1064615
+(0.16535368566618566, 0.4387037538079205)
+https://www.nasdaq.com/article/3-stocks-to-buy-as-gifts-this-holiday-season-cm1068654
+(0.1927948758417509, 0.46100551647426613)
+https://www.nasdaq.com/article/how-supreme-court-ruling-could-harm-apple-aapl-stock-cm1060688
+(0.15420662147077246, 0.5494178986631817)
+https://www.nasdaq.com/article/5-top-stock-trades-for-tuesday-trading-spy-googl-and-sq-cm1058394
+(0.10042310167310167, 0.4158097383097382)
+https://www.nasdaq.com/article/turkey-tech-how-silicon-valley-shaped-the-modern-thanksgiving-cm1058890
+(0.19722498603546995, 0.4780921587373201)
+https://www.nasdaq.com/article/is-roku-stock-still-a-buy-despite-disappointing-q3-cm1053923
+(0.18592228677754993, 0.5025328983881612)
+https://www.nasdaq.com/article/best-buy-stock-has-a-lot-to-prove-this-week-cm1058131
+(0.3177694235588973, 0.4164515455304928)
+https://www.nasdaq.com/article/facebook-deja-vu-or-a-longer-term-issue-cm1066905
+(0.10488980716253443, 0.478168044077135)
+https://www.nasdaq.com/article/goldman-thinks-apple-missed-the-mark-with-iphone-xr-cm1059171
+(0.13540873015873015, 0.4734365079365079)
+https://www.nasdaq.com/article/5-5g-stocks-to-buy-that-will-stream-higher-profits-for-investors-cm1069154
+(0.15225079819568013, 0.46072684096306143)
+https://www.nasdaq.com/article/pre-market-most-active-for-dec-10-2018-amd-mrns-qqq-sqqq-cron-aapl-cm1066737
+(0.049305555555555554, 0.39282407407407405)
+https://www.nasdaq.com/article/apple-is-making-a-multi-billion-dollar-mistake-cm1067169
+(0.16524394822864208, 0.5057001870012072)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-facebook-apple-amazoncom-netflix-and-alphabet-cm1058540
+(0.1047471270362837, 0.4559110902484393)
+https://www.nasdaq.com/article/alphabet-halts-glucose-lens-work-to-focus-on-other-projects-cm1058036
+(0.12349324526048665, 0.5500578444543961)
+https://www.nasdaq.com/article/apple-aapl-dips-more-than-broader-markets-what-you-should-know-cm1065795
+(0.020842522257616597, 0.473154727871709)
+https://www.nasdaq.com/article/heres-what-could-be-in-store-for-apples-2019-ipad-pro-cm1056271
+(0.22282876082251085, 0.49686392496392484)
+https://www.nasdaq.com/article/why-wall-street-grades-apple-on-such-a-harsh-curve-cm1053116
+(0.1579899078973153, 0.46248873211836167)
+https://www.nasdaq.com/article/after-hours-most-active-for-nov-27-2018-feye-ge-intc-ohi-abev-aet-flex-fb-aapl-mro-vsh-msft-cm1061218
+(-0.0055787037037037, 0.30776887464387465)
+https://www.nasdaq.com/article/apple-reportedly-restarts-iphone-x-production-cm1060246
+(0.16204097626511418, 0.5150955366472606)
+https://www.nasdaq.com/article/wednesday-apple-rumors-photos-of-airpods-2-leak-cm1056183
+(0.09269480519480519, 0.3220779220779221)
+https://www.nasdaq.com/article/healthcare-takes-wall-street-lead-4-picks-cm1063828
+(0.05545644414065467, 0.4303421432368794)
+https://www.nasdaq.com/article/does-the-apple-spat-make-qualcomm-stock-a-buy-cm1063954
+(0.1778843226788432, 0.48498097412480995)
+https://www.nasdaq.com/article/wednesday-apple-rumors-new-display-may-make-2019-iphone-thinner-cm1068537
+(0.1386969696969697, 0.4355454545454546)
+https://www.nasdaq.com/article/technology-sector-update-for-11302018-anbawdayasys-cm1062857
+(-0.034444444444444444, 0.40444444444444444)
+https://www.nasdaq.com/article/why-apple-stock-is-up-22-in-2018-so-far-cm1054209
+(0.22754538472280408, 0.482079085788763)
+https://www.nasdaq.com/article/theres-a-flood-of-streaming-services-on-the-way-cm1067967
+(0.19365701146188952, 0.528926107767571)
+https://www.nasdaq.com/article/apple-to-introduce-homepod-in-china-boosts-global-presence-cm1066118
+(0.13439314750290365, 0.5280342624854816)
+https://www.nasdaq.com/article/look-out-netflix-disney-is-coming-cm1053959
+(0.1868252840909091, 0.5215790719696969)
+https://www.nasdaq.com/article/despite-the-ups-and-downs-2018s-been-good-for-apple-stock-cm1054699
+(0.12960526315789475, 0.4752436647173489)
+https://www.nasdaq.com/article/google-fi-is-project-fi-but-with-iphone-support-cm1062576
+(0.21988169876100916, 0.48385579937304074)
+https://www.nasdaq.com/article/google-wants-to-get-serious-as-a-wireless-carrier-but-theres-a-catch-cm1061875
+(0.2107930209120685, 0.4713214915595867)
+https://www.nasdaq.com/article/close-update-major-stock-market-indexes-swoon-ending-week-deep-underwater-cm1066338
+(-0.09351851851851853, 0.307716049382716)
+https://www.nasdaq.com/article/heres-what-to-expect-from-home-depots-hd-q3-earnings-cm1054836
+(0.12571606171606173, 0.49448834925758)
+https://www.nasdaq.com/article/how-data-is-making-the-us-stock-market-open-for-all-investors-cm998274
+(0.3146464646464647, 0.5817845117845118)
+https://www.nasdaq.com/article/apples-premium-news-service-could-be-just-around-the-corner-but-publishers-arent-totally-onboard-cm1068546
+(0.21458568605307732, 0.49786843591191404)
+https://www.nasdaq.com/article/google-plans-data-center-in-denmark-intends-to-go-green-cm1059415
+(0.09638261282096898, 0.4884421514558499)
+https://www.nasdaq.com/article/sony-stock-receives-a-midterm-elections-boost-cm1054695
+(0.12013888888888889, 0.4211616161616162)
+https://www.nasdaq.com/article/this-iphone-xr-shortcoming-is-good-news-for-1-apple-supplier-cm1054852
+(0.17060304611674473, 0.43567326889244684)
+https://www.nasdaq.com/article/apple-details-domestic-expansion-plans-cm1069126
+(0.12844135520191854, 0.4003190862345791)
+https://www.nasdaq.com/article/qualcomm-stock-looks-to-self-driving-cars-for-a-jumpstart-cm1063132
+(0.0789580588493632, 0.5463768115942028)
+https://www.nasdaq.com/article/apple-stock-got-hammered-but-its-suppliers-are-suffering-a-worse-fate-cm1055435
+(0.008592417683326768, 0.3782710219073856)
+https://www.nasdaq.com/article/pre-market-most-active-for-nov-12-2018-amrn-qqq-apti-aapl-amd-sqqq-cm1054291
+(-0.000694444444444442, 0.3690277777777778)
+https://www.nasdaq.com/article/5-top-stock-trades-for-thursday-apples-bear-market-snaps-investigation-cm1056245
+(0.13695740740740742, 0.4397164021164021)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-apple-diodes-himax-acm-and-park-city-cm1055880
+(0.09344875776397515, 0.4420975075648985)
+https://www.nasdaq.com/article/5-top-stock-trades-for-tuesday-goldman-apple-and-amd-fall-hard-cm1054832
+(0.07529914529914529, 0.40361416361416363)
+https://www.nasdaq.com/article/after-hours-most-active-for-nov-26-2018-ctl-ge-qqq-rf-teva-hal-bac-intc-aapl-gild-xel-stld-cm1060706
+(-0.01967940685045948, 0.2888836675020886)
+https://www.nasdaq.com/article/should-you-buy-qualcomm-for-its-4-dividend-yield-cm1055363
+(0.15024632644350952, 0.43683830254252776)
+https://www.nasdaq.com/article/the-zacks-analyst-blog-highlights-alphabet-facebook-apple-amazoncom-and-netflix-cm1067912
+(0.06950408850408853, 0.4710630110630107)
+https://www.nasdaq.com/article/mid-day-update-dow-slumps-as-apple-enters-bear-market-cm1056015
+(-0.0005929487179487199, 0.3095512820512822)
+https://www.nasdaq.com/article/mid-day-update-wall-street-roiled-by-heightened-uschina-tensions-slowing-growth-and-brexit-cm1067036
+(-0.05064333814333814, 0.31441798941798976)
+https://www.nasdaq.com/article/technology-sector-update-for-12132018-cien-aapl-qcom-qtrh-msft-ibm-csco-goog-cm1068725
+(0.019230769230769232, 0.47628205128205126)
+https://www.nasdaq.com/article/is-fidelity-high-dividend-etf-fdvv-a-hot-etf-right-now-cm1054930
+(0.1542661691542289, 0.5323187633262259)
+https://www.nasdaq.com/article/etfs-in-focus-as-microsoft-races-past-apple-cm1062026
+(0.1847789115646259, 0.3919855442176872)
+https://www.nasdaq.com/article/lyft-races-ahead-with-its-ipo-cm1067085
+(0.1777022656197557, 0.4898021132359073)
+https://www.nasdaq.com/article/trader-bets-on-apple-rebound-cm1060621
+(0.0505659772326439, 0.5235561968895301)
+https://www.nasdaq.com/article/should-investors-worry-about-apples-iphone-business-cm1062880
+(0.2402756864713387, 0.5849232490536836)
+https://www.nasdaq.com/article/a-foolish-take-americans-want-these-3-tech-gifts-for-the-holidays-cm1063884
+(0.31902841781874036, 0.5452380952380953)
+https://www.nasdaq.com/article/noteworthy-wednesday-option-activity-tsla-aapl-googl-cm1059645
+(-0.04777777777777779, 0.5813333333333333)
+https://www.nasdaq.com/article/tuesdays-etf-with-unusual-volume-xntk-cm1055380
+(0.1975, 0.6024999999999999)
+https://www.nasdaq.com/article/stocks-pummeled-on-trade-fears-bond-yields-cm1064645
+(0.0334640522875817, 0.3371241830065359)
+https://www.nasdaq.com/article/smartwatch-showdown-apple-aapl-vs-fitbit-fit-cm1053115
+(0.23692147960440635, 0.4748315031851614)
+https://www.nasdaq.com/article/5-funds-to-buy-on-this-dip-for-big-gains-and-115-dividends-cm1063692
+(0.12514619883040937, 0.414546783625731)
+https://www.nasdaq.com/article/has-apple-stock-bottomed-yet-cm1055432
+(0.12671325719198062, 0.36228070983390137)
+https://www.nasdaq.com/article/technology-sector-update-for-11142018-snap-xnet-eric-msft-aapl-ibm-csco-goog-cm1055697
+(0.05106837606837607, 0.30470085470085473)
+https://www.nasdaq.com/article/buy-semiconductors-on-the-dip-3-stocks-to-consider-now-cm1054810
+(0.1382336116264688, 0.5098971861471858)
+https://www.nasdaq.com/article/how-hard-will-the-huawei-scandal-hit-american-stocks-cm1065654
+(0.03728129509379509, 0.3211129148629147)
+https://www.nasdaq.com/article/stock-market-news-for-dec-4-2018-cm1064312
+(0.10389075210503783, 0.37930640787783626)
+https://www.nasdaq.com/article/apple-is-now-oversold-cm1056151
+(-0.091, 0.4287777777777777)
+https://www.nasdaq.com/article/these-3-value-stocks-are-absurdly-cheap-right-now1-cm1062074
+(0.13977050136624605, 0.4753050259433236)
+https://www.nasdaq.com/article/heres-why-tesla-tsla-stock-looks-like-a-strong-buy-right-now-cm1055586
+(0.15656987998451416, 0.4078268817902964)
+https://www.nasdaq.com/article/illumina-douglas-dynamics-amazon-jpmorgan-and-apple-highlighted-as-zacks-bull-and-bear-of-the-day-cm1063731
+(0.1128394982355378, 0.45419658037232286)
+https://www.nasdaq.com/article/samsung-has-5-new-galaxy-flagship-smartphones-in-pipeline-for-early-2019-cm1059632
+(0.058098299007389914, 0.3961962700599064)
+https://www.nasdaq.com/article/fitbit-stock-is-still-not-healthy-cm1067410
+(0.1317363399452952, 0.4550402748163941)
+https://www.nasdaq.com/article/3-top-value-stocks-to-buy-in-november-cm1053119
+(0.1434670686456401, 0.44489696067821044)
+https://www.nasdaq.com/article/apple-stock-takes-a-hit-as-president-trump-suggests-10-iphone-tariff-cm1061110
+(0.09122532933016805, 0.4074009100218778)
+https://www.nasdaq.com/article/dow-movers-ba-vz-cm1058764
+(-0.048263888888888884, 0.4940972222222222)
+https://www.nasdaq.com/article/forget-faangs-invest-in-these-tech-etfs-instead-cm1059551
+(0.025287555124003727, 0.4259292187563211)
+https://www.nasdaq.com/article/winning-the-mobile-5g-race-is-just-the-ticket-for-qualcomm-stock-cm1065653
+(0.1402972027972028, 0.46379592629592625)
