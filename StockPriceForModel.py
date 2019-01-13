@@ -19,7 +19,7 @@ class PriceForModel:
     def asdict(self):
         return {'date': self.formatted_date, 'high': self.high, 'low': self.low,
                 'open': self.open, 'close': self.close, 'volume': self.volume,
-                'adj_close': self.adj_close,
+                'adj_close': self.adj_close, 'formatted_date':self.formatted_date,
                 'label_price': self.label_price, 'label_trend': self.label_trend}
 
 
